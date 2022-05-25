@@ -12,10 +12,15 @@ Obrigado
 
 
 
-RA:G24BBB2 - Vinicius Marques de Oliveira
-RA:G254937 - Guilherme Santos Gama
-RA:G2292F1 - Gabriel Duarte dos Santos
-RA:N708GB2 - Raquel de Jesus Ribeiro
-RA:N719834 - Evellyn Pereira Leal Valadão
-RA:G198174 - Isabel Paez Salvador
+# RA:G24BBB2 - Vinicius Marques de Oliveira
+
+# RA:G254937 - Guilherme Santos Gama
+
+# RA:G2292F1 - Gabriel Duarte dos Santos
+
+# RA:N708GB2 - Raquel de Jesus Ribeiro
+
+# RA:N719834 - Evellyn Pereira Leal Valadão
+
+# RA:G198174 - Isabel Paez Salvador
 
