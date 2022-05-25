@@ -1,0 +1,40 @@
+garbage.png
+size: 48, 37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box tile 16x16 2
+  rotate: false
+  xy: 0, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+garbage bag 1
+  rotate: false
+  xy: 0, 16
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+rusty sheet metal tile blue 16x16 1
+  rotate: false
+  xy: 16, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rusty sheet metal tile blue 16x16 2
+  rotate: false
+  xy: 32, 0
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+screen 1
+  rotate: false
+  xy: 18, 16
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1

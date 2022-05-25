@@ -1,0 +1,12 @@
+trash.png
+size: 495, 480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trashItem
+  rotate: false
+  xy: 0, 0
+  size: 495, 480
+  orig: 486, 469
+  offset: 0, -11
+  index: -1

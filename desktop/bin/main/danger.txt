@@ -1,0 +1,19 @@
+danger.png
+size: 28, 101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+banner-small
+  rotate: false
+  xy: 0, 0
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+banners
+  rotate: false
+  xy: 0, 35
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1

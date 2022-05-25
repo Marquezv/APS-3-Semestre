@@ -1,0 +1,33 @@
+rat.png
+size: 448, 32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Death
+  rotate: false
+  xy: 0, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Hurt
+  rotate: false
+  xy: 128, 0
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Idle
+  rotate: false
+  xy: 192, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+Walk
+  rotate: false
+  xy: 320, 0
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1

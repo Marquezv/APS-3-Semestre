@@ -1,0 +1,12 @@
+tree.png
+size: 896, 480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jungle_terrain
+  rotate: false
+  xy: 0, 0
+  size: 896, 480
+  orig: 896, 480
+  offset: 0, 0
+  index: -1
